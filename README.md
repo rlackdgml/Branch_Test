@@ -7,3 +7,5 @@
 완성이 되면 다시 언래의 프로젝트에 Merge하여할 수 있는 개념
 
 ## README.md 파일을 V2에서 변경
+
+## Master에서 README.md를 변경
